@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    background-color: #49cccc;
+}
+.enlaces{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.logo{
+    flex-grow: 4;
+}
